@@ -1,0 +1,21 @@
+.details {
+    margin-bottom: 1rem;
+    border-radius: 0.55rem;
+    background-color: #2e2e2e63;
+}
+
+.details:focus-within {
+    outline: 3px solid #2e2e2e63;
+    outline-offset: 5px;
+}
+
+.summary {
+    color: white;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+.children {
+    padding: 1rem;
+}
